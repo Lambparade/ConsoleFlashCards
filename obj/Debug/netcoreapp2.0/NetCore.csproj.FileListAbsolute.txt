@@ -1,0 +1,10 @@
+/home/blue/RiderProjects/NetCore/NetCore/bin/Debug/netcoreapp2.0/NetCore.deps.json
+/home/blue/RiderProjects/NetCore/NetCore/bin/Debug/netcoreapp2.0/NetCore.runtimeconfig.json
+/home/blue/RiderProjects/NetCore/NetCore/bin/Debug/netcoreapp2.0/NetCore.runtimeconfig.dev.json
+/home/blue/RiderProjects/NetCore/NetCore/bin/Debug/netcoreapp2.0/NetCore.dll
+/home/blue/RiderProjects/NetCore/NetCore/bin/Debug/netcoreapp2.0/NetCore.pdb
+/home/blue/RiderProjects/NetCore/NetCore/obj/Debug/netcoreapp2.0/NetCore.csproj.CoreCompileInputs.cache
+/home/blue/RiderProjects/NetCore/NetCore/obj/Debug/netcoreapp2.0/NetCore.AssemblyInfoInputs.cache
+/home/blue/RiderProjects/NetCore/NetCore/obj/Debug/netcoreapp2.0/NetCore.AssemblyInfo.cs
+/home/blue/RiderProjects/NetCore/NetCore/obj/Debug/netcoreapp2.0/NetCore.dll
+/home/blue/RiderProjects/NetCore/NetCore/obj/Debug/netcoreapp2.0/NetCore.pdb
