@@ -8,3 +8,14 @@
 /home/blue/RiderProjects/NetCore/NetCore/obj/Debug/netcoreapp2.0/NetCore.AssemblyInfo.cs
 /home/blue/RiderProjects/NetCore/NetCore/obj/Debug/netcoreapp2.0/NetCore.dll
 /home/blue/RiderProjects/NetCore/NetCore/obj/Debug/netcoreapp2.0/NetCore.pdb
+C:\Users\robinson\Documents\ConsoleFlashCards\bin\Debug\netcoreapp2.0\NetCore.deps.json
+C:\Users\robinson\Documents\ConsoleFlashCards\bin\Debug\netcoreapp2.0\NetCore.runtimeconfig.json
+C:\Users\robinson\Documents\ConsoleFlashCards\bin\Debug\netcoreapp2.0\NetCore.runtimeconfig.dev.json
+C:\Users\robinson\Documents\ConsoleFlashCards\bin\Debug\netcoreapp2.0\NetCore.dll
+C:\Users\robinson\Documents\ConsoleFlashCards\bin\Debug\netcoreapp2.0\NetCore.pdb
+C:\Users\robinson\Documents\ConsoleFlashCards\obj\Debug\netcoreapp2.0\NetCore.csprojAssemblyReference.cache
+C:\Users\robinson\Documents\ConsoleFlashCards\obj\Debug\netcoreapp2.0\NetCore.csproj.CoreCompileInputs.cache
+C:\Users\robinson\Documents\ConsoleFlashCards\obj\Debug\netcoreapp2.0\NetCore.AssemblyInfoInputs.cache
+C:\Users\robinson\Documents\ConsoleFlashCards\obj\Debug\netcoreapp2.0\NetCore.AssemblyInfo.cs
+C:\Users\robinson\Documents\ConsoleFlashCards\obj\Debug\netcoreapp2.0\NetCore.dll
+C:\Users\robinson\Documents\ConsoleFlashCards\obj\Debug\netcoreapp2.0\NetCore.pdb

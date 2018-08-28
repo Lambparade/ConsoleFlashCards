@@ -1,0 +1,25 @@
+
+------------
+
+{CSC.exe Compiler}
+
+(A C# console compiler that can used to create a .exe file using a dll
+Note: Must include a main function)
+
+------------
+
+------------
+
+{Partial class}
+
+(A keyword that allows for one class to span across multiple files.)
+
+------------
+------------
+
+{Internal Class}
+
+(types or members are accessible only within files in the same assembly--Can only be accsessed within that file.)
+
+------------
+

@@ -1,0 +1,25 @@
+
+------------
+
+{uname}
+
+(list current linux distro. The -a flag will list all useful information)
+
+------------
+
+------------
+
+{sudo !!}
+
+(Will run previous command under sudo/root permissions)
+
+------------
+
+------------
+
+{screenfetch}
+
+(Shows some system information with a cool/trendy ASCII corresponding art)
+
+------------
+
