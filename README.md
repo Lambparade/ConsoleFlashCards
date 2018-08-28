@@ -20,6 +20,7 @@ cd inside the netcoreapp2.0 folder.
 open terminal/cmd
 
 run the following command:
+
 dotnet /NetCore.dll (Windows)
 
 dotnet ./NetCore.dll (Linux,OSX)
