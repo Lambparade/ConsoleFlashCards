@@ -1,0 +1,17 @@
+
+------------
+
+{Stream}
+
+(---- is a sequence of data elements made available over time.A ---- can be thought of as items on a conveyor belt being processed one at a time rather than in large batches)
+
+------------
+
+------------
+
+{Batch}
+
+(----- processing refers to a computer working through a queue or batch of separate jobs [programs])
+
+------------
+
