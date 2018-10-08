@@ -23,3 +23,32 @@
 
 ------------
 
+------------
+
+{REST[Representational State Transfer] Webservice}
+
+(______ uses a simple url in many cases when dealing with messaging services. Can use any type of output data..JSON..CSV..etc. 
+uses four different HTTP 1.1 verbs GET,POST,PUT,DELETE.
+ Requires HTTP follows closer to other Web technologies in design philosophy. Smaller learning curve.)
+
+------------
+
+------------
+
+{Soap[Simple Object Access Protocol]}
+
+(___ uses XML to provide messaging services. Is highy extensible. 
+Not friendly with languages outside the .NetFramework. 
+Requires sometimes making an xml document manually. _____ is very intolerent to errors in XML schemas. 
+Does not require http can use any form of Transport layer)
+
+------------
+
+------------
+
+{}
+
+()
+
+------------
+
