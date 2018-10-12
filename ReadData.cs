@@ -25,6 +25,7 @@ namespace NetCore
 			{
 				ret.AddRange(ParseFlashCardData(File));
 			}
+
 			return ret;
 		}
 
@@ -51,6 +52,7 @@ namespace NetCore
 			List<FlashCard> ret = new List<FlashCard>();
 
 			bool CurrentIndexValid = true;
+
 			while (CurrentIndexValid)
 			{
 				for (int i = 1; ;  i++)
@@ -100,7 +102,6 @@ namespace NetCore
 			}
 
 			return index;
-
 		}
 	}
 }

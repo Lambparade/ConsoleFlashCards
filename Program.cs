@@ -14,6 +14,7 @@ namespace NetCore
             List<FlashCard> FlashCards = ReadData.Read(filePath);
 
             bool Quit = true;
+
             if (!File.Exists(filePath))
             {
 
@@ -35,10 +36,12 @@ namespace NetCore
                         Console.ForegroundColor = ConsoleColor.Red;
 
                         ifEsc = Console.ReadLine();
+
                         if (ifEsc == ":q")
                         {
                             break;
                         }
+
                         Console.Clear();
 
                         Console.ForegroundColor = ConsoleColor.Green;
@@ -62,7 +65,6 @@ namespace NetCore
                         Console.ReadKey();
                         break;
                     }
-
                 }
             }
             else
