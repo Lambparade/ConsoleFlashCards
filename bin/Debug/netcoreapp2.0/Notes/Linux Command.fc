@@ -23,3 +23,11 @@
 
 ------------
 
+------------
+
+{dpkg -l}
+
+(List all current installed programs on system[ubuntu,Debian])
+
+------------
+
