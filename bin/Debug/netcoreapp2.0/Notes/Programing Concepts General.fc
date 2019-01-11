@@ -22,3 +22,19 @@
 (Describes the worst case execution speed of a Function/Algorithm)
 
 ------------
+------------
+
+{ReadOnly Varible Modifer}
+
+(A Constant value the at can only be change in the contructor)
+
+------------
+
+------------
+
+{Const Varible Modifer}
+
+(A value that can not be changed)
+
+------------
+
