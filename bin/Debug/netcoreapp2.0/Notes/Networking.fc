@@ -46,9 +46,25 @@ Does not require http can use any form of Transport layer)
 
 ------------
 
-{}
+{PPTP}
 
-()
+(Point to point tunneling protocol. Availible on most platforms. Old and unsecure to goverment agencies.)
+
+------------
+
+------------
+
+{OpenVPN}
+
+(Uses open source technologies the the OpenSLL encrytion library and ssl. Very configurable and reccomeneded for modern use.)
+
+------------
+
+------------
+
+{L2TP/IPsec}
+
+(Layer 2 tunnel Proptocol is a vpn protocol the doesn't off encryption by default but is to be paired with IPsec encryption. Also built into most modern desktip operating systems. Rumors of compromise by the NSA.)
 
 ------------
 

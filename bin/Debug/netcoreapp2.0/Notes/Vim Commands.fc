@@ -7,3 +7,11 @@
 
 ------------
 
+------------
+
+{read}
+
+(Can be used to read the output of a shell command in vim)
+
+------------
+
